@@ -1,0 +1,13 @@
+pg1 START 0
+** USING *,15
+** 1 1,FIVE
+** MATH **
+** ar 5,3
+** sr 5,4
+FIVE DC H'5'
+** MATH **
+** ar 5,3
+** sr 5,4
+** MUL **
+** mr 5,3
+** END **
